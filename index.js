@@ -9,4 +9,3 @@ Object [key] = value
   return object
 }
   
-function deleteFromObjectByKey(object, key)
